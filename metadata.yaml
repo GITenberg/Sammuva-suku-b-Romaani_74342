@@ -1,0 +1,34 @@
+_repo: Sammuva-suku-b-Romaani_74342
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Asp, Kaarlo
+    alias: Asp, Kaarlo Kustaa
+    birthdate: 1894
+    deathdate: 1979
+    gutenberg_agent_id: '53424'
+    url: http://www.gutenberg.org/2009/agents/53424
+    wikipedia: https://fi.wikipedia.org/wiki/Kaarlo_Asp
+creator:
+  author:
+    agent_name: Kristian Elster jr.
+    gutenberg_agent_id: '57454'
+    url: http://www.gutenberg.org/2009/agents/57454
+description: ''
+gutenberg_issued: '2024-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74342'
+language: fi
+pgterms:marc905: 20240630131120elster
+pgterms:marc906: '1922'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sammuva suku : $b Romaani'
+url: http://www.gutenberg.org/ebooks/74342
