@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '53424'
     url: http://www.gutenberg.org/2009/agents/53424
     wikipedia: https://fi.wikipedia.org/wiki/Kaarlo_Asp
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kristian Elster jr.
     gutenberg_agent_id: '57454'
     url: http://www.gutenberg.org/2009/agents/57454
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74342#Sammuva-suku-b-Romaani
 gutenberg_issued: '2024-08-31'
 gutenberg_type: Text
 identifiers:
